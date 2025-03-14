@@ -1,0 +1,8 @@
+id = "locale-zh-hans-config"
+name = "战舰世界莱服汉化配置"
+description = "战舰世界莱服汉化配置"
+authors = ["zerodegress <zerodegress@outlook.com>"]
+
+[versions.'1']
+url = "https://github.com/zerodegress/korabli-locale-config-zh/releases/download/v1.0.0/korabli-locale-config-zh.zip"
+sha512sum = "0696bdd33fdb8638d9f100598b130cc6250916bd32c564b0b9a3ad753a2ae1a81ea630a715acee4396fca63a4ace4a79f85a94bdc06de1fffd8021c8e6c46a22"

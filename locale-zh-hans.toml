@@ -1,0 +1,11 @@
+id = "locale-zh-hans"
+name = "战舰世界莱服汉化（澪刻）"
+description = "战舰世界莱服汉化（澪刻）"
+authors = ["MikhailTapio"]
+
+[dependencies]
+locale-zh-hans-config = "1"
+
+[versions.'8804454.1']
+url = "https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/download/8804454.1/8804454.1.mod.zip"
+sha512sum = "0696bdd33fdb8638d9f100598b130cc6250916bd32c564b0b9a3ad753a2ae1a81ea630a715acee4396fca63a4ace4a79f85a94bdc06de1fffd8021c8e6c46a22"

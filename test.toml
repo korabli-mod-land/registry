@@ -1,8 +1,0 @@
-id = "test"
-name = "Test"
-description = "Test"
-authors = ["zerodegress"]
-
-[versions.'1.2.3']
-url = "https://github.com/zerodegress"
-sha512sum = "SKIP"
